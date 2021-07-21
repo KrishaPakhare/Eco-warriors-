@@ -1,3 +1,6 @@
+#Output link:
+ https://krishapakhare.github.io/Eco-warriors-/
+
 1. Name : Scavenger Hunt
 2.Characters : Pc's n non-pc's :
    1. a player (girl or boy )
